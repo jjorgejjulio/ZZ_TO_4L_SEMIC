@@ -1,4 +1,4 @@
-# semic
+# ZZ TO 4l semic
 Todos os códigos e arquivos utilizados até 05/10/23 na minha iniciação científica
 
 
